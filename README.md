@@ -1,1 +1,1 @@
-In this repo we will look at Monitoring and Maintenance including
+In this repo we will look at Monitoring and Maintenance including Performance Metrics,
